@@ -1,5 +1,5 @@
 # Arduino-based-alarm-system ⏰ 
-this is a simple arduino based project the is based on the rtc module
+this is a simple arduino based project whose working revolves around the rtc time module.
 
 ## compnents required
 1. 1x 16*2 lcd screen
