@@ -19,8 +19,8 @@ the buzzer connected to the d8 pin of the arduino board and the ground pin(negat
 ## workings of the momentary switch/buttons 
 there are three button used to set and control the alarm system the first one is the left button, the config button, and the right button.
 the config button is used to set the system mode such as cancelling/stoping an active alarm ⏰ and setting the alarm time.
-the left and right buttons are used to set increment and decrement values respectively such as the alarm hour, minites and seconds.
-when the system is in set alarm time the config button is used to to set the hour minites and seconds of the desired time you wantthe alarm to sound.
+the left and right buttons are used to increment and decrement values respectively such as the alarm hour, minites, and seconds.
+when the system is in set alarm time the config button is used to switch betwsen setting the hour minites and seconds of the desired time you want the alarm to sound.
 ### left button connection 
 the left button is connected to the d9 of the arduino board and the second pin is connected to the ground.
 ### config button connection
