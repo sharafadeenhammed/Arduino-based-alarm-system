@@ -1,4 +1,4 @@
-# Arduino-based-alarm-system
+# Arduino-based-alarm-system ⏰ 
 this is a simple arduino based project the is based on the rtc module
 
 ## compnents required
